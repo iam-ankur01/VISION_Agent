@@ -1,3 +1,5 @@
-echo "envaa/
+# Ignore environment and system files
+envaa/
+env/
 __pycache__/
-.DS_Store" > .gitignore
+.DS_Store
